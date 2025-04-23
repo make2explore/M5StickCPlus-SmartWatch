@@ -14,14 +14,14 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 
 **Software**
 - Arduino
-    [StickC-Plus Arduino Library](https://github.com/m5stack/M5StickC-Plus)
-    [StickC-Plus Factory Test Example](https://github.com/m5stack/M5StickC-Plus/tree/master/examples/FactoryTest)
+    [StickC-Plus Arduino Library](https://github.com/m5stack/M5StickC-Plus)  
+    [StickC-Plus Factory Test Example](https://github.com/m5stack/M5StickC-Plus/tree/master/examples/FactoryTest)  
 
 - Graphical Programming 
     StickC-Plus UiFlow1 Quick Start Guide 
     [UiFlow1](https://docs.m5stack.com/en/uiflow/uiflow_web)  
       
-    UiFlow2
+- UiFlow2
     StickC-Plus UiFlow2 Quick Start Guide 
     [UiFlow2](https://docs.m5stack.com/en/uiflow2/uiflow_web)  
       
