@@ -5,7 +5,7 @@ Simple smartwatch design using M5StickCPlus Development Board
   
 **StickC-Plus** is the large-screen version of the M5StickC. Its main controller uses the ESP32-PICO-D4 module, which supports Wi-Fi. Inside its compact body, it integrates rich hardware resources such as infrared, RTC, microphone, LED, IMU, buttons, buzzer, PMU, and more. While retaining the original functions of the M5StickC, it adds a passive buzzer. Additionally, the screen size has been upgraded to 1.14 inches, with a resolution of 135 x 240 TFT, increasing the display area by 18.7% compared to the previous 0.96-inch screen. The battery capacity is 120mAh, and the interface supports HAT and Unit series products.
 
-This compact and exquisite development tool can unleash unlimited creative potential. StickC-Plus can help quickly build IoT product prototypes, greatly simplifying the entire development process. Even for beginners who are just starting to learn programming, it can be used to create interesting applications and apply them to real-life scenarios.AI enthusiasts.
+This compact and exquisite development tool can unleash unlimited creative potential. StickC-Plus can help quickly build IoT product prototypes, greatly simplifying the entire development process. Even for beginners who are just starting to learn programming, it can be used to create interesting applications and apply them to real-life scenarios.
 
 ## Documentation
 
