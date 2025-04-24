@@ -34,9 +34,9 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 
 - This tutorial of Overview of Seeed Studio's SenseCraft AI Tool will be divided in 4 parts
 
-▶️  M5StickCPlus-SmartWatch 1 🔗  https://youtu.be/
+▶️  M5StickCPlus-SmartWatch 1 🔗  https://youtube.com/shorts/gQLLJikvEz0  
 
-▶️  M5StickCPlus-SmartWatch 2 🔗  https://youtu.be/  
+▶️  M5StickCPlus-SmartWatch 2 🔗  https://youtube.com/shorts/fZLYG__RQS8    
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
